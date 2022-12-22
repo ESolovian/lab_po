@@ -1,0 +1,3 @@
+D:/ITMO/Labs of instrumental sources po/Новая папка/lab_po/cmake-build-debug/CMakeFiles/lab.dir
+D:/ITMO/Labs of instrumental sources po/Новая папка/lab_po/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO/Labs of instrumental sources po/Новая папка/lab_po/cmake-build-debug/CMakeFiles/rebuild_cache.dir

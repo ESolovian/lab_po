@@ -19,7 +19,7 @@ int calc(int a, char oper, int b){
 }
 
 void testCalc(){
-    assert(calc(23, '+', 268) == 291);
+    assert(calc(23, '+', 268) == 290);
     assert(calc(173, '-', 745) == -572);
     assert(calc(29, '*', 17) == 493);
     assert(calc(188, '/', 4) == 47);
